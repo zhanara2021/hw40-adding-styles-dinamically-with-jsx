@@ -1,0 +1,16 @@
+.components{
+  margin: 1rem 0;
+  background: #bd3b94;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  width:fit-content;
+  align-items: center;
+  text-align: center;
+  border-color: #030303;
+  border-radius: 10%;
+}
+.components-heading{
+  padding: 15px;
+}
